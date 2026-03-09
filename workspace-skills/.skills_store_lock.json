@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "desktop-control-win": {
+      "name": "Desktop Control (Windows)",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=desktop-control-win",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "summarize": {
+      "name": "Summarize",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=summarize",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "xiaohongshutools": {
+      "name": "小红书",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=xiaohongshutools",
+      "source": "skillhub",
+      "version": "0.1.0"
+    },
+    "ontology-mapper": {
+      "name": "Ontology Mapper",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=ontology-mapper",
+      "source": "skillhub",
+      "version": "2.1.0"
+    },
+    "obsidian-ontology-sync": {
+      "name": "Obsidian Ontology Sync",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=obsidian-ontology-sync",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "http://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    }
+  }
+}
