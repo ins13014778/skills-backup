@@ -2,12 +2,19 @@
 
 This repository stores backups of local AI tool skill directories.
 
-## Layout
+## Main Backups
 
-- `codex-skills/.codex-skills` from `C:\Users\Administrator\.codex\skills`
-- `codex-skills/.agents-skills` from `C:\Users\Administrator\.agents\skills`
-- `workbuddy-skills/skills` from `C:\Users\Administrator\.workbuddy\skills`
-- `claude-code-skills/skills` from `C:\Users\Administrator\.claude\skills`
-- `claude-code-skills/.agents-skills` from `C:\Users\Administrator\.claude\.agents\skills`
+- `codex-skills`
+  - `.codex-skills` from `C:\Users\Administrator\.codex\skills`
+  - `.agents-skills` from `C:\Users\Administrator\.agents\skills`
+- `workbuddy-skills`
+  - `skills` from `C:\Users\Administrator\.workbuddy\skills`
+- `claude-code-skills`
+  - `skills` from `C:\Users\Administrator\.claude\skills`
+  - `.agents-skills` from `C:\Users\Administrator\.claude\.agents\skills`
 
-Synced on 2026-07-06.
+## Legacy Archive
+
+Older historical content that was already present in this repository has been moved into `legacy-archive/` to keep the repository root clean.
+
+Synced and reorganized on 2026-07-06.
